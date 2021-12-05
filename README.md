@@ -9,7 +9,7 @@ Tippy is an Android application developed in the Kotlin programming language tha
 
 
 ### App Walkthough GIF
-![Imgur Image](https://imgur.com/a/CjE6aLh.jpg)
+![Imgur Image](https://imgur.com/a/CjE6aLh.gif)
 
 ### Notes
 - First Android application built in Kotlin.
